@@ -1,0 +1,6 @@
+
+# No password (local dev)
+DATABASE_URL="mysql://root:@localhost:3306/proposal_management"
+# NextAuth - use your app URL in production
+NEXTAUTH_URL="http://localhost:3000"
+NEXTAUTH_SECRET="generate-a-secure-random-string-here"
